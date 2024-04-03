@@ -40,8 +40,8 @@ export default function Busco_Guia()
                 <input name="username" type="text" placeholder="Ej:Lucas salem" required/>
             </fieldset>
             <fieldset className="field-name">
-                <label className="symbol-required name" htmlFor="name">City were you live</label>
-                <input name="wereulive" type="text" placeholder="Ej:Rio de janeiro" required/>
+                <label className="symbol-required name" htmlFor="name">city were you live</label>
+                <input name="city" type="text" placeholder="Ej:Rio de Janeiro" required/>
             </fieldset>
             <fieldset className="field-name">
                 <label className="symbol-required name" htmlFor="name">Country and city you will be visiting</label>
